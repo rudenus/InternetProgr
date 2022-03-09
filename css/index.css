@@ -103,14 +103,14 @@ header {
      margin-left: 100px;
  }
  .form-registration label, .form-registration button{
-     margin-top: 120px;
+     margin-top: 80px;
  }
  .SignIn{
      text-align: center;
-     font-size: 62px;
+     font-size: 40px;
  }
  .form-registration input{
-     font-size: 38px;
+     font-size: 24px;
      width: 80%;
      padding-left: 15px;
  }
@@ -122,9 +122,9 @@ header {
     background-color: #828282;
     color: #FFF06C;
     font-weight: 600;
-    font-size: 32px;
-    padding :10px 30px; 
-    margin-bottom: 100px;
+    font-size: 24px;
+    padding :10px 20px; 
+    margin-bottom: 50px;
  }
  .text-registration{
      text-decoration: none;
