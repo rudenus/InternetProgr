@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "RegistrationForm";
+}
+<section class="">
+        <div class="container">
+            <div class="form-registration-image">
+                <div class="col-12 row">
+                    <div class="col-6 form-registration">
+                        <form action="post">
+                            <h3 class="SignIn">Войти</h3>
+                            <label for="mail">Адрес электронной почты </label>
+                            <input type="email" placeholder="Введите вашу почту..." name="mail" required>
+                            <label for="passwd">Пароль </label>
+                            <input type="password" placeholder="Введите ваш пароль..." name="passwd" required>
+                            <button type="submit">Войти</button>
+                        </form>
+                        <a class="text-registration">
+                            Нет аккаунта? Зарегистрироваться
+                        </a>
+                    </div>
+                    <div class="col-6">
+                        <img src="~/img/hotel1.jpg" alt="hotel-image" class="hotel-image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
