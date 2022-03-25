@@ -1,0 +1,23 @@
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\obj\Debug\8 лаба.csproj.AssemblyReference.cache
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\obj\Debug\8 лаба.csproj.SuggestedBindingRedirects.cache
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\obj\Debug\8 лаба.csproj.CoreCompileInputs.cache
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\8 лаба.exe.config
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\8 лаба.exe
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\8 лаба.pdb
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\Telegram.Bot.dll
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\Telegram.Bot.pdb
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\Telegram.Bot.xml
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\obj\Debug\8 лаба.csproj.CopyComplete
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\obj\Debug\8 лаба.exe
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\obj\Debug\8 лаба.pdb
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\System.Threading.Channels.dll
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\System.Threading.Channels.xml
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\Telegram.Bot.Extensions.Polling.pdb
+C:\Users\Миронов Евгений\Desktop\телега бот\8 лаба\8 лаба\bin\Debug\Telegram.Bot.Extensions.Polling.xml
